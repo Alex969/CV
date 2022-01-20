@@ -13,7 +13,7 @@ I'm a former fine arts and digital arts student making my way in the tech indust
 
 |Project        |Description                    |Technologies  |            
 |----------|--------------------------|------------------------------|
-|<b>[Anime-List](https://github.com/Alex969/Anime-List)</b>|<div align="center"> A list of popular animes displayed by popularity.</div>|React.js, TypeScript, Redux tool kit, GraphQL, Apollo, NPM, Styled-Components, JavaScript ES6|
+|<b>[Anime-List](https://github.com/Alex969/Anime-List)</b>|<div align="center"> A list of animes displayed by popularity.</div>|React.js, TypeScript, Redux tool kit, GraphQL, Apollo, NPM, Styled-Components, JavaScript ES6|
 |<b>[Bandersnatch](https://github.com/Alex969/bandersnatch)</b>|<div align="center"> A multiple choice story that guides through a maze, only your knowledge of the ruby programming language will get you out of it.(Bootcamp project made in a group of 4)|JavaScript, React.js, Node.js, Ruby On Rails, Material UI, CSS|
 |<b>[Acebook](https://github.com/Alex969/acebook-react)</b>|<div align="center">A Facebook mock where you can sign up/log in as a user and post messages on your feed which other users can react to and comment on </div>|JavaScript, React, Bootstrap, Ruby On Rails|
 
